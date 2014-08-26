@@ -7,7 +7,9 @@ $this->layout='//layouts/column2';
 $this->menu=array(
     array('label'=>UserModule::t('List User'), 'url'=>array('index')),
 );
+ if(Yii::app()->getModule('user')->isAdmin()){
 ?>
+
 <h1><?php echo UserModule::t('View User').' "'.$model->username.'"'; ?></h1>
 <?php 
 
@@ -40,4 +42,7 @@ $this->menu=array(
 		'attributes'=>$attributes,
 	));
 
+?>
+<?php }
+  else $this->createUrl('site/error');
 ?>

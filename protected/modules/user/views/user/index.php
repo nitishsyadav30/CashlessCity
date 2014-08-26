@@ -8,7 +8,7 @@ if(UserModule::isAdmin()) {
 	    array('label'=>UserModule::t('Manage Users'), 'url'=>array('/user/admin')),
 	    array('label'=>UserModule::t('Manage Profile Field'), 'url'=>array('profileField/admin')),
 	);
-}
+
 ?>
 
 <h1><?php echo UserModule::t("List User"); ?></h1>
@@ -24,4 +24,6 @@ if(UserModule::isAdmin()) {
 		'create_at',
 		'lastvisit_at',
 	),
-)); ?>
+));
+} else $this->createUrl('site/error');
+?>

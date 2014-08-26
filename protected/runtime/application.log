@@ -1694,3 +1694,981 @@ Stack trace:
 #12 {main}
 REQUEST_URI=/CashlessCity/index.php/articles/update/favicon.ico
 ---
+2014/08/23 16:49:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "favicon.ico".' in C:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('favicon.ico')
+#1 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('favicon.ico')
+#2 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/favicon.ic...')
+#3 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/CashlessCity/index.php/site/favicon.ico
+---
+2014/08/23 16:49:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "favicon.png".' in C:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('favicon.png')
+#1 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('favicon.png')
+#2 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/favicon.pn...')
+#3 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/CashlessCity/index.php/site/favicon.png
+---
+2014/08/23 16:49:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "favicon.ico".' in C:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('favicon.ico')
+#1 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('favicon.ico')
+#2 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/favicon.ic...')
+#3 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/CashlessCity/index.php/site/favicon.ico
+---
+2014/08/23 16:49:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "favicon.png".' in C:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('favicon.png')
+#1 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('favicon.png')
+#2 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/favicon.pn...')
+#3 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/CashlessCity/index.php/site/favicon.png
+---
+2014/08/23 16:51:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "user/favicon.ico".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('user/favicon.ic...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/CashlessCity/index.php/user/favicon.ico
+---
+2014/08/23 16:51:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "user/favicon.png".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('user/favicon.pn...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/CashlessCity/index.php/user/favicon.png
+---
+2014/08/23 16:51:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "user/favicon.ico".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('user/favicon.ic...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/CashlessCity/index.php/user/favicon.ico
+---
+2014/08/23 16:51:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "user/favicon.png".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('user/favicon.pn...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/CashlessCity/index.php/user/favicon.png
+---
+2014/08/23 20:04:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "favicon.png".' in C:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('favicon.png')
+#1 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('favicon.png')
+#2 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/favicon.pn...')
+#3 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/CashlessCity/index.php/site/favicon.png
+---
+2014/08/23 20:04:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "favicon.ico".' in C:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('favicon.ico')
+#1 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('favicon.ico')
+#2 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/favicon.ic...')
+#3 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/CashlessCity/index.php/site/favicon.ico
+---
+2014/08/23 20:05:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "user/favicon.png".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('user/favicon.pn...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/CashlessCity/index.php/user/favicon.png
+---
+2014/08/23 20:05:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "user/favicon.ico".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('user/favicon.ic...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/CashlessCity/index.php/user/favicon.ico
+---
+2014/08/24 05:16:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "user/favicon.png".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('user/favicon.pn...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/CashlessCity/index.php/user/favicon.png
+---
+2014/08/24 05:16:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "user/favicon.ico".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('user/favicon.ic...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/CashlessCity/index.php/user/favicon.ico
+---
+2014/08/24 05:17:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "favicon.png".' in C:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('favicon.png')
+#1 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('favicon.png')
+#2 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/favicon.pn...')
+#3 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/CashlessCity/index.php/site/favicon.png
+---
+2014/08/24 05:17:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "favicon.ico".' in C:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('favicon.ico')
+#1 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('favicon.ico')
+#2 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/favicon.ic...')
+#3 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/CashlessCity/index.php/site/favicon.ico
+---
+2014/08/24 05:41:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "user/login.php".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('user/login.php')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/CashlessCity/index.php/user/login.php
+---
+2014/08/24 05:41:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.png".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.png')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/CashlessCity/index.php/favicon.png
+---
+2014/08/24 05:41:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/CashlessCity/index.php/favicon.ico
+---
+2014/08/24 05:41:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested page does not exist.' in C:\wamp\www\CashlessCity\protected\modules\user\controllers\UserController.php:79
+Stack trace:
+#0 C:\wamp\www\CashlessCity\protected\modules\user\controllers\UserController.php(42): UserController->loadModel()
+#1 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): UserController->actionView()
+#2 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#3 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#4 C:\wamp\www\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#5 C:\wamp\www\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#6 C:\wamp\www\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#7 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#8 C:\wamp\www\yii\framework\web\CController.php(291): CFilterChain->run()
+#9 C:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('view')
+#11 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('user/user/view/...')
+#12 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#13 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#14 {main}
+REQUEST_URI=/CashlessCity/index.php/user/user/view/id/favicon.png
+---
+2014/08/24 05:41:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested page does not exist.' in C:\wamp\www\CashlessCity\protected\modules\user\controllers\UserController.php:79
+Stack trace:
+#0 C:\wamp\www\CashlessCity\protected\modules\user\controllers\UserController.php(42): UserController->loadModel()
+#1 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): UserController->actionView()
+#2 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#3 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#4 C:\wamp\www\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#5 C:\wamp\www\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#6 C:\wamp\www\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#7 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#8 C:\wamp\www\yii\framework\web\CController.php(291): CFilterChain->run()
+#9 C:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('view')
+#11 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('user/user/view/...')
+#12 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#13 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#14 {main}
+REQUEST_URI=/CashlessCity/index.php/user/user/view/id/favicon.ico
+---
+2014/08/24 05:41:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "favicon.png".' in C:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('favicon.png')
+#1 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('favicon.png')
+#2 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('user/user/favic...')
+#3 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/CashlessCity/index.php/user/user/favicon.png
+---
+2014/08/24 05:41:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "favicon.ico".' in C:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('favicon.ico')
+#1 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('favicon.ico')
+#2 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('user/user/favic...')
+#3 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/CashlessCity/index.php/user/user/favicon.ico
+---
+2014/08/24 05:51:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested page does not exist.' in C:\wamp\www\CashlessCity\protected\modules\user\controllers\UserController.php:79
+Stack trace:
+#0 C:\wamp\www\CashlessCity\protected\modules\user\controllers\UserController.php(42): UserController->loadModel()
+#1 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): UserController->actionView()
+#2 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#3 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#4 C:\wamp\www\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#5 C:\wamp\www\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#6 C:\wamp\www\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#7 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#8 C:\wamp\www\yii\framework\web\CController.php(291): CFilterChain->run()
+#9 C:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('view')
+#11 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('user/user/view')
+#12 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#13 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#14 {main}
+REQUEST_URI=/CashlessCity/index.php/user/user/view/
+---
+2014/08/24 05:51:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested page does not exist.' in C:\wamp\www\CashlessCity\protected\modules\user\controllers\UserController.php:79
+Stack trace:
+#0 C:\wamp\www\CashlessCity\protected\modules\user\controllers\UserController.php(42): UserController->loadModel()
+#1 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): UserController->actionView()
+#2 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#3 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#4 C:\wamp\www\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#5 C:\wamp\www\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#6 C:\wamp\www\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#7 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#8 C:\wamp\www\yii\framework\web\CController.php(291): CFilterChain->run()
+#9 C:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('view')
+#11 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('user/user/view/...')
+#12 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#13 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#14 {main}
+REQUEST_URI=/CashlessCity/index.php/user/user/view/favicon.png
+---
+2014/08/24 05:51:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested page does not exist.' in C:\wamp\www\CashlessCity\protected\modules\user\controllers\UserController.php:79
+Stack trace:
+#0 C:\wamp\www\CashlessCity\protected\modules\user\controllers\UserController.php(42): UserController->loadModel()
+#1 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): UserController->actionView()
+#2 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#3 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#4 C:\wamp\www\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#5 C:\wamp\www\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#6 C:\wamp\www\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#7 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#8 C:\wamp\www\yii\framework\web\CController.php(291): CFilterChain->run()
+#9 C:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('view')
+#11 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('user/user/view/...')
+#12 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#13 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#14 {main}
+REQUEST_URI=/CashlessCity/index.php/user/user/view/favicon.ico
+---
+2014/08/24 05:51:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested page does not exist.' in C:\wamp\www\CashlessCity\protected\modules\user\controllers\UserController.php:79
+Stack trace:
+#0 C:\wamp\www\CashlessCity\protected\modules\user\controllers\UserController.php(42): UserController->loadModel()
+#1 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): UserController->actionView()
+#2 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#3 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#4 C:\wamp\www\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#5 C:\wamp\www\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#6 C:\wamp\www\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#7 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#8 C:\wamp\www\yii\framework\web\CController.php(291): CFilterChain->run()
+#9 C:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('view')
+#11 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('user/user/view')
+#12 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#13 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#14 {main}
+REQUEST_URI=/CashlessCity/index.php/user/user/view/
+---
+2014/08/24 05:54:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "user/index".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('user/index')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/CashlessCity/index.php/user/index
+---
+2014/08/24 05:54:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "user/index".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('user/index')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/CashlessCity/index.php/user/index
+---
+2014/08/24 05:55:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "user/index".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('user/index')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/CashlessCity/index.php/user/index
+---
+2014/08/24 05:55:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "user/view".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('user/view')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/CashlessCity/index.php/user/view
+---
+2014/08/24 05:57:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "favicon.png".' in C:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('favicon.png')
+#1 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('favicon.png')
+#2 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('user/profile/fa...')
+#3 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/CashlessCity/index.php/user/profile/favicon.png
+---
+2014/08/24 05:57:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "favicon.ico".' in C:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('favicon.ico')
+#1 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('favicon.ico')
+#2 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('user/profile/fa...')
+#3 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/CashlessCity/index.php/user/profile/favicon.ico
+---
+2014/08/24 06:47:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "favicon.png".' in C:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('favicon.png')
+#1 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('favicon.png')
+#2 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('dashboard/favic...')
+#3 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/CashlessCity/index.php/dashboard/favicon.png
+---
+2014/08/24 06:47:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "favicon.ico".' in C:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('favicon.ico')
+#1 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('favicon.ico')
+#2 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('dashboard/favic...')
+#3 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/CashlessCity/index.php/dashboard/favicon.ico
+---
+2014/08/24 07:07:28 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.components.Bootstrap" is invalid. Make sure it points to an existing directory or file.' in C:\wamp\www\yii\framework\YiiBase.php:347
+Stack trace:
+#0 C:\wamp\www\yii\framework\YiiBase.php(196): YiiBase::import('bootstrap.compo...', true)
+#1 C:\wamp\www\yii\framework\base\CModule.php(386): YiiBase::createComponent(Array)
+#2 C:\wamp\www\yii\framework\base\CModule.php(103): CModule->getComponent('bootstrap')
+#3 C:\wamp\www\CashlessCity\themes\designa\views\layouts\main.php(8): CModule->__get('bootstrap')
+#4 C:\wamp\www\yii\framework\web\CBaseController.php(126): require('C:\wamp\www\Cas...')
+#5 C:\wamp\www\yii\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\wamp\www\Cas...', Array, true)
+#6 C:\wamp\www\yii\framework\web\widgets\CContentDecorator.php(76): CBaseController->renderFile('C:\wamp\www\Cas...', Array, true)
+#7 C:\wamp\www\yii\framework\web\widgets\CContentDecorator.php(54): CContentDecorator->decorate('  ??<link rel="...')
+#8 C:\wamp\www\yii\framework\web\widgets\COutputProcessor.php(44): CContentDecorator->processOutput('  ??<link rel="...')
+#9 C:\wamp\www\yii\framework\web\CBaseController.php(206): COutputProcessor->run()
+#10 C:\wamp\www\yii\framework\web\CBaseController.php(300): CBaseController->endWidget('CContentDecorat...')
+#11 C:\wamp\www\CashlessCity\themes\designa\views\layouts\column1.php(3): CBaseController->endContent()
+#12 C:\wamp\www\yii\framework\web\CBaseController.php(126): require('C:\wamp\www\Cas...')
+#13 C:\wamp\www\yii\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\wamp\www\Cas...', Array, true)
+#14 C:\wamp\www\yii\framework\web\CController.php(784): CBaseController->renderFile('C:\wamp\www\Cas...', Array, true)
+#15 C:\wamp\www\CashlessCity\protected\controllers\DashboardController.php(25): CController->render('index')
+#16 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): DashboardController->actionIndex()
+#17 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#18 C:\wamp\www\yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#19 C:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#20 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('index')
+#21 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('dashboard/index')
+#22 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#23 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#24 {main}
+REQUEST_URI=/CashlessCity/index.php/dashboard/index
+HTTP_REFERER=http://localhost/CashlessCity/index.php/dashboard/index
+---
+2014/08/24 07:16:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested page does not exist.' in C:\wamp\www\CashlessCity\protected\modules\user\controllers\AdminController.php:182
+Stack trace:
+#0 C:\wamp\www\CashlessCity\protected\modules\user\controllers\AdminController.php(66): AdminController->loadModel()
+#1 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): AdminController->actionView()
+#2 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#3 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#4 C:\wamp\www\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#5 C:\wamp\www\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#6 C:\wamp\www\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#7 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#8 C:\wamp\www\yii\framework\web\CController.php(291): CFilterChain->run()
+#9 C:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('view')
+#11 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('user/admin/view...')
+#12 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#13 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#14 {main}
+REQUEST_URI=/CashlessCity/index.php/user/admin/view/id/favicon.png
+---
+2014/08/24 07:16:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested page does not exist.' in C:\wamp\www\CashlessCity\protected\modules\user\controllers\AdminController.php:182
+Stack trace:
+#0 C:\wamp\www\CashlessCity\protected\modules\user\controllers\AdminController.php(66): AdminController->loadModel()
+#1 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): AdminController->actionView()
+#2 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#3 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#4 C:\wamp\www\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#5 C:\wamp\www\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#6 C:\wamp\www\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#7 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#8 C:\wamp\www\yii\framework\web\CController.php(291): CFilterChain->run()
+#9 C:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('view')
+#11 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('user/admin/view...')
+#12 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#13 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#14 {main}
+REQUEST_URI=/CashlessCity/index.php/user/admin/view/id/favicon.ico
+---
+2014/08/24 07:16:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "favicon.png".' in C:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('favicon.png')
+#1 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('favicon.png')
+#2 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('user/admin/favi...')
+#3 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/CashlessCity/index.php/user/admin/favicon.png
+---
+2014/08/24 07:16:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "favicon.ico".' in C:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('favicon.ico')
+#1 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('favicon.ico')
+#2 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('user/admin/favi...')
+#3 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/CashlessCity/index.php/user/admin/favicon.ico
+---
+2014/08/24 07:17:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested page does not exist.' in C:\wamp\www\CashlessCity\protected\modules\user\controllers\AdminController.php:182
+Stack trace:
+#0 C:\wamp\www\CashlessCity\protected\modules\user\controllers\AdminController.php(109): AdminController->loadModel()
+#1 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): AdminController->actionUpdate()
+#2 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#3 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#4 C:\wamp\www\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#5 C:\wamp\www\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#6 C:\wamp\www\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#7 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#8 C:\wamp\www\yii\framework\web\CController.php(291): CFilterChain->run()
+#9 C:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('update')
+#11 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('user/admin/upda...')
+#12 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#13 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#14 {main}
+REQUEST_URI=/CashlessCity/index.php/user/admin/update/id/favicon.png
+---
+2014/08/24 07:17:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested page does not exist.' in C:\wamp\www\CashlessCity\protected\modules\user\controllers\AdminController.php:182
+Stack trace:
+#0 C:\wamp\www\CashlessCity\protected\modules\user\controllers\AdminController.php(109): AdminController->loadModel()
+#1 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): AdminController->actionUpdate()
+#2 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#3 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#4 C:\wamp\www\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#5 C:\wamp\www\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#6 C:\wamp\www\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#7 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#8 C:\wamp\www\yii\framework\web\CController.php(291): CFilterChain->run()
+#9 C:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('update')
+#11 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('user/admin/upda...')
+#12 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#13 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#14 {main}
+REQUEST_URI=/CashlessCity/index.php/user/admin/update/id/favicon.ico
+---
+2014/08/24 07:22:44 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Invalid request. Please do not repeat this request again.' in C:\wamp\www\CashlessCity\protected\modules\user\controllers\AdminController.php:154
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): AdminController->actionDelete()
+#1 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#2 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#3 C:\wamp\www\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#4 C:\wamp\www\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#6 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#7 C:\wamp\www\yii\framework\web\CController.php(291): CFilterChain->run()
+#8 C:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('delete')
+#10 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('user/admin/dele...')
+#11 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#13 {main}
+REQUEST_URI=/CashlessCity/index.php/user/admin/delete/id/4
+HTTP_REFERER=http://localhost/CashlessCity/index.php/user/admin/admin
+---
+2014/08/24 07:22:44 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Invalid request. Please do not repeat this request again.' in C:\wamp\www\CashlessCity\protected\modules\user\controllers\AdminController.php:154
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): AdminController->actionDelete()
+#1 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#2 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#3 C:\wamp\www\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#4 C:\wamp\www\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#6 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#7 C:\wamp\www\yii\framework\web\CController.php(291): CFilterChain->run()
+#8 C:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('delete')
+#10 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('user/admin/dele...')
+#11 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#13 {main}
+REQUEST_URI=/CashlessCity/index.php/user/admin/delete/id/favicon.png
+---
+2014/08/24 07:22:44 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Invalid request. Please do not repeat this request again.' in C:\wamp\www\CashlessCity\protected\modules\user\controllers\AdminController.php:154
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): AdminController->actionDelete()
+#1 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#2 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#3 C:\wamp\www\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#4 C:\wamp\www\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#5 C:\wamp\www\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#6 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#7 C:\wamp\www\yii\framework\web\CController.php(291): CFilterChain->run()
+#8 C:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('delete')
+#10 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('user/admin/dele...')
+#11 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#13 {main}
+REQUEST_URI=/CashlessCity/index.php/user/admin/delete/id/favicon.ico
+---
+2014/08/24 11:40:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "favicon.png".' in C:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('favicon.png')
+#1 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('favicon.png')
+#2 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('articles/favico...')
+#3 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/CashlessCity/index.php/articles/favicon.png
+---
+2014/08/24 11:40:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "favicon.ico".' in C:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('favicon.ico')
+#1 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('favicon.ico')
+#2 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('articles/favico...')
+#3 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/CashlessCity/index.php/articles/favicon.ico
+---
+2014/08/24 11:41:26 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'id'. The SQL statement executed was: INSERT INTO `tbl_articles` (`article_active`, `article_name`, `author_name`, `article_content`, `id`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4).
+in C:\wamp\www\CashlessCity\protected\controllers\ArticlesController.php (75)
+in C:\wamp\www\CashlessCity\index.php (13)
+2014/08/24 11:41:26 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'id'. The SQL statement executed was: INSERT INTO `tbl_articles` (`article_active`, `article_name`, `author_name`, `article_content`, `id`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)' in C:\wamp\www\yii\framework\db\CDbCommand.php:358
+Stack trace:
+#0 C:\wamp\www\yii\framework\db\ar\CActiveRecord.php(1077): CDbCommand->execute()
+#1 C:\wamp\www\yii\framework\db\ar\CActiveRecord.php(806): CActiveRecord->insert(NULL)
+#2 C:\wamp\www\CashlessCity\protected\controllers\ArticlesController.php(75): CActiveRecord->save()
+#3 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): ArticlesController->actionCreate()
+#4 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 C:\wamp\www\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\wamp\www\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 C:\wamp\www\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 C:\wamp\www\yii\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('create')
+#13 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('articles/create')
+#14 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#15 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/CashlessCity/index.php/articles/create
+HTTP_REFERER=http://localhost/CashlessCity/index.php/articles/create
+---
+2014/08/24 11:43:53 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'id'. The SQL statement executed was: INSERT INTO `tbl_articles` (`article_active`, `article_name`, `author_name`, `article_content`, `id`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4).
+in C:\wamp\www\CashlessCity\protected\controllers\ArticlesController.php (75)
+in C:\wamp\www\CashlessCity\index.php (13)
+2014/08/24 11:43:53 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'id'. The SQL statement executed was: INSERT INTO `tbl_articles` (`article_active`, `article_name`, `author_name`, `article_content`, `id`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)' in C:\wamp\www\yii\framework\db\CDbCommand.php:358
+Stack trace:
+#0 C:\wamp\www\yii\framework\db\ar\CActiveRecord.php(1077): CDbCommand->execute()
+#1 C:\wamp\www\yii\framework\db\ar\CActiveRecord.php(806): CActiveRecord->insert(NULL)
+#2 C:\wamp\www\CashlessCity\protected\controllers\ArticlesController.php(75): CActiveRecord->save()
+#3 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): ArticlesController->actionCreate()
+#4 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 C:\wamp\www\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\wamp\www\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 C:\wamp\www\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 C:\wamp\www\yii\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('create')
+#13 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('articles/create')
+#14 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#15 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/CashlessCity/index.php/articles/create
+HTTP_REFERER=http://localhost/CashlessCity/index.php/articles/create
+---
+2014/08/24 11:48:42 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2' for key 'id'. The SQL statement executed was: INSERT INTO `tbl_articles` (`article_active`, `article_name`, `author_name`, `article_content`, `id`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4).
+in C:\wamp\www\CashlessCity\protected\controllers\ArticlesController.php (75)
+in C:\wamp\www\CashlessCity\index.php (13)
+2014/08/24 11:48:42 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2' for key 'id'. The SQL statement executed was: INSERT INTO `tbl_articles` (`article_active`, `article_name`, `author_name`, `article_content`, `id`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)' in C:\wamp\www\yii\framework\db\CDbCommand.php:358
+Stack trace:
+#0 C:\wamp\www\yii\framework\db\ar\CActiveRecord.php(1077): CDbCommand->execute()
+#1 C:\wamp\www\yii\framework\db\ar\CActiveRecord.php(806): CActiveRecord->insert(NULL)
+#2 C:\wamp\www\CashlessCity\protected\controllers\ArticlesController.php(75): CActiveRecord->save()
+#3 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): ArticlesController->actionCreate()
+#4 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 C:\wamp\www\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\wamp\www\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 C:\wamp\www\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 C:\wamp\www\yii\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('create')
+#13 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('articles/create')
+#14 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#15 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/CashlessCity/index.php/articles/create
+HTTP_REFERER=http://localhost/CashlessCity/index.php/articles/create
+---
+2014/08/24 11:51:33 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2' for key 'id'. The SQL statement executed was: INSERT INTO `tbl_articles` (`article_active`, `article_name`, `author_name`, `article_content`, `id`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4).
+in C:\wamp\www\CashlessCity\protected\controllers\ArticlesController.php (75)
+in C:\wamp\www\CashlessCity\index.php (13)
+2014/08/24 11:51:33 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2' for key 'id'. The SQL statement executed was: INSERT INTO `tbl_articles` (`article_active`, `article_name`, `author_name`, `article_content`, `id`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)' in C:\wamp\www\yii\framework\db\CDbCommand.php:358
+Stack trace:
+#0 C:\wamp\www\yii\framework\db\ar\CActiveRecord.php(1077): CDbCommand->execute()
+#1 C:\wamp\www\yii\framework\db\ar\CActiveRecord.php(806): CActiveRecord->insert(NULL)
+#2 C:\wamp\www\CashlessCity\protected\controllers\ArticlesController.php(75): CActiveRecord->save()
+#3 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): ArticlesController->actionCreate()
+#4 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 C:\wamp\www\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\wamp\www\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 C:\wamp\www\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 C:\wamp\www\yii\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('create')
+#13 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('articles/create')
+#14 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#15 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/CashlessCity/index.php/articles/create
+HTTP_REFERER=http://localhost/CashlessCity/index.php/articles/create
+---
+2014/08/24 11:52:23 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2' for key 'id'. The SQL statement executed was: INSERT INTO `tbl_articles` (`article_active`, `article_name`, `author_name`, `article_content`, `id`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4).
+in C:\wamp\www\CashlessCity\protected\controllers\ArticlesController.php (75)
+in C:\wamp\www\CashlessCity\index.php (13)
+2014/08/24 11:52:23 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2' for key 'id'. The SQL statement executed was: INSERT INTO `tbl_articles` (`article_active`, `article_name`, `author_name`, `article_content`, `id`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)' in C:\wamp\www\yii\framework\db\CDbCommand.php:358
+Stack trace:
+#0 C:\wamp\www\yii\framework\db\ar\CActiveRecord.php(1077): CDbCommand->execute()
+#1 C:\wamp\www\yii\framework\db\ar\CActiveRecord.php(806): CActiveRecord->insert(NULL)
+#2 C:\wamp\www\CashlessCity\protected\controllers\ArticlesController.php(75): CActiveRecord->save()
+#3 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): ArticlesController->actionCreate()
+#4 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 C:\wamp\www\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\wamp\www\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 C:\wamp\www\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 C:\wamp\www\yii\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('create')
+#13 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('articles/create')
+#14 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#15 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/CashlessCity/index.php/articles/create
+HTTP_REFERER=http://localhost/CashlessCity/index.php/articles/create
+---
+2014/08/24 11:53:04 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2' for key 'id'. The SQL statement executed was: INSERT INTO `tbl_articles` (`article_active`, `article_name`, `author_name`, `article_content`, `id`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4).
+in C:\wamp\www\CashlessCity\protected\controllers\ArticlesController.php (75)
+in C:\wamp\www\CashlessCity\index.php (13)
+2014/08/24 11:53:04 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2' for key 'id'. The SQL statement executed was: INSERT INTO `tbl_articles` (`article_active`, `article_name`, `author_name`, `article_content`, `id`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)' in C:\wamp\www\yii\framework\db\CDbCommand.php:358
+Stack trace:
+#0 C:\wamp\www\yii\framework\db\ar\CActiveRecord.php(1077): CDbCommand->execute()
+#1 C:\wamp\www\yii\framework\db\ar\CActiveRecord.php(806): CActiveRecord->insert(NULL)
+#2 C:\wamp\www\CashlessCity\protected\controllers\ArticlesController.php(75): CActiveRecord->save()
+#3 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): ArticlesController->actionCreate()
+#4 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 C:\wamp\www\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\wamp\www\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 C:\wamp\www\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 C:\wamp\www\yii\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('create')
+#13 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('articles/create')
+#14 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#15 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/CashlessCity/index.php/articles/create
+HTTP_REFERER=http://localhost/CashlessCity/index.php/articles/create
+---
+2014/08/24 11:53:54 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2' for key 'id'. The SQL statement executed was: INSERT INTO `tbl_articles` (`article_active`, `article_name`, `author_name`, `article_content`, `id`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4).
+in C:\wamp\www\CashlessCity\protected\controllers\ArticlesController.php (75)
+in C:\wamp\www\CashlessCity\index.php (13)
+2014/08/24 11:53:54 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2' for key 'id'. The SQL statement executed was: INSERT INTO `tbl_articles` (`article_active`, `article_name`, `author_name`, `article_content`, `id`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4)' in C:\wamp\www\yii\framework\db\CDbCommand.php:358
+Stack trace:
+#0 C:\wamp\www\yii\framework\db\ar\CActiveRecord.php(1077): CDbCommand->execute()
+#1 C:\wamp\www\yii\framework\db\ar\CActiveRecord.php(806): CActiveRecord->insert(NULL)
+#2 C:\wamp\www\CashlessCity\protected\controllers\ArticlesController.php(75): CActiveRecord->save()
+#3 C:\wamp\www\yii\framework\web\actions\CInlineAction.php(49): ArticlesController->actionCreate()
+#4 C:\wamp\www\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 C:\wamp\www\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\wamp\www\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 C:\wamp\www\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 C:\wamp\www\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 C:\wamp\www\yii\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\wamp\www\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('create')
+#13 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('articles/create')
+#14 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#15 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/CashlessCity/index.php/articles/create
+HTTP_REFERER=http://localhost/CashlessCity/index.php/articles/create
+---
+2014/08/24 12:04:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "authordashboard/index".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('authordashboard...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/CashlessCity/index.php/authordashboard/index
+HTTP_REFERER=http://localhost/CashlessCity/index.php
+---
+2014/08/24 12:04:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "authordashboard/favicon.png".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('authordashboard...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/CashlessCity/index.php/authordashboard/favicon.png
+---
+2014/08/24 12:04:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "authordashboard/favicon.ico".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('authordashboard...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/CashlessCity/index.php/authordashboard/favicon.ico
+---
+2014/08/24 12:05:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "authordashboard/index".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('authordashboard...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/CashlessCity/index.php/authordashboard/index
+HTTP_REFERER=http://localhost/CashlessCity/index.php
+---
+2014/08/24 12:06:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "authordashboard/index".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('authordashboard...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/CashlessCity/index.php/authordashboard/index
+HTTP_REFERER=http://localhost/CashlessCity/index.php
+---
+2014/08/24 12:07:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "authordashboard/index".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('authordashboard...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/CashlessCity/index.php/authordashboard/index
+HTTP_REFERER=http://localhost/CashlessCity/index.php
+---
+2014/08/24 12:09:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "authordashboard/index".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('authordashboard...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/CashlessCity/index.php/authordashboard/index
+HTTP_REFERER=http://localhost/CashlessCity/index.php
+---
+2014/08/24 12:09:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "authordashboard/index".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('authordashboard...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/CashlessCity/index.php/authordashboard/index
+HTTP_REFERER=http://localhost/CashlessCity/index.php/authordashboard/index
+---
+2014/08/24 12:09:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "authordashboard/index".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('authordashboard...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/CashlessCity/index.php/authordashboard/index
+HTTP_REFERER=http://localhost/CashlessCity/index.php/authordashboard/index
+---
+2014/08/24 12:10:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "authordashboard/index".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('authordashboard...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/CashlessCity/index.php/authordashboard/index
+HTTP_REFERER=http://localhost/CashlessCity/index.php/authordashboard/index
+---
+2014/08/24 12:10:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "authordashboard/index".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('authordashboard...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/CashlessCity/index.php/authordashboard/index
+HTTP_REFERER=http://localhost/CashlessCity/index.php/authordashboard/index
+---
+2014/08/24 12:10:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "author/index".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('author/index')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/CashlessCity/index.php/author/index
+HTTP_REFERER=http://localhost/CashlessCity/index.php
+---
+2014/08/24 12:10:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "author/favicon.png".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('author/favicon....')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/CashlessCity/index.php/author/favicon.png
+---
+2014/08/24 12:10:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "author/favicon.ico".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('author/favicon....')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/CashlessCity/index.php/author/favicon.ico
+---
+2014/08/24 12:11:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "author/index".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('author/index')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/CashlessCity/index.php/author/index
+HTTP_REFERER=http://localhost/CashlessCity/index.php
+---
+2014/08/24 12:11:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "author/index".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('author/index')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/CashlessCity/index.php/author/index
+HTTP_REFERER=http://localhost/CashlessCity/index.php/author/index
+---
+2014/08/25 04:51:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.png".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.png')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/CashlessCity/index.php/favicon.png
+---
+2014/08/25 04:51:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/CashlessCity/index.php/favicon.ico
+---
+2014/08/25 04:51:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "user/favicon.png".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('user/favicon.pn...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/CashlessCity/index.php/user/favicon.png
+---
+2014/08/25 04:51:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "user/favicon.ico".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('user/favicon.ic...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/CashlessCity/index.php/user/favicon.ico
+---
+2014/08/25 04:51:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "favicon.png".' in C:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('favicon.png')
+#1 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('favicon.png')
+#2 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('dashboard/favic...')
+#3 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/CashlessCity/index.php/dashboard/favicon.png
+---
+2014/08/25 04:51:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "favicon.ico".' in C:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('favicon.ico')
+#1 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('favicon.ico')
+#2 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('dashboard/favic...')
+#3 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/CashlessCity/index.php/dashboard/favicon.ico
+---
+2014/08/25 04:51:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "favicon.png".' in C:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('favicon.png')
+#1 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('favicon.png')
+#2 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('user/admin/favi...')
+#3 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/CashlessCity/index.php/user/admin/favicon.png
+---
+2014/08/25 04:51:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "favicon.ico".' in C:\wamp\www\yii\framework\web\CController.php:483
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CController.php(270): CController->missingAction('favicon.ico')
+#1 C:\wamp\www\yii\framework\web\CWebApplication.php(282): CController->run('favicon.ico')
+#2 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('user/admin/favi...')
+#3 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/CashlessCity/index.php/user/admin/favicon.ico
+---
+2014/08/25 05:59:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "user/favicon.png".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('user/favicon.pn...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/Cashlesscity/index.php/user/favicon.png
+---
+2014/08/25 05:59:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "user/favicon.ico".' in C:\wamp\www\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('user/favicon.ic...')
+#1 C:\wamp\www\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\CashlessCity\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/Cashlesscity/index.php/user/favicon.ico
+---

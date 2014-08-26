@@ -26,8 +26,9 @@
 .grid-view table.items th
 {
 	color: white;
-	background: url("bg.gif") repeat-x scroll left top white;
+	background: rgb(0, 0, 0);;
 	text-align: center;
+        width: 0.1px
 }
 
 .grid-view table.items th a
@@ -61,12 +62,12 @@
 
 .grid-view table.items tr.odd
 {
-	background: #E5F1F4;
+	background: rgb(255, 255, 255);
 }
 
 .grid-view table.items tr.selected
 {
-	background: #BCE774;
+	background: rgb(255, 255, 255);
 }
 
 .grid-view table.items tr:hover.selected
@@ -87,7 +88,7 @@
 .grid-view .button-column
 {
 	text-align: center;
-	width: 60px;
+	width: 84px;
 }
 
 .grid-view .button-column img
