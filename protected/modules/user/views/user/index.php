@@ -6,8 +6,7 @@ if(UserModule::isAdmin()) {
 	$this->layout='//layouts/column2';
 	$this->menu=array(
 	    array('label'=>UserModule::t('Manage Users'), 'url'=>array('/user/admin')),
-	    array('label'=>UserModule::t('Manage Profile Field'), 'url'=>array('profileField/admin')),
-	);
+	    );
 
 ?>
 

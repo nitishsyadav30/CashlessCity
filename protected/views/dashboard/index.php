@@ -14,6 +14,7 @@
                 <div class="portlet-content">
                     <ul class="sidebar" id="yw1">
                         <li><?php echo CHtml::link('Users',Yii::app()->createurl('user/admin')) ?></li>
+                        <li><?php echo CHtml::link('New Articles to Edit',Yii::app()->createurl('articles/posted')) ?></li>
                         
                     </ul></div>
             </div>

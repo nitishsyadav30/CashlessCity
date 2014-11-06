@@ -1,12 +1,14 @@
 
-<?php 
+<?php
   
  if(Yii::app()->getModule('user')->isAuthor()){
      ?>
  
 <link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/style.css" media="screen, projection" />
 
-
+<div class="span3">
+    
+</div>
         <div class="span3" style="">
             <div class="portlet" id="yw0">
                 <div class="portlet-decoration">
@@ -14,9 +16,9 @@
                 </div>
                 <div class="portlet-content">
                     <ul class="sidebar" id="yw1">
-                        <li>Manage Articles</li>
-                        <li>Write new Article</li>
-                       
+                        <li><?php echo CHtml::link('Write New Article',Yii::app()->createurl('articles/create')) ?></li>
+                        <li><?php echo CHtml::link('Manage Articles',Yii::app()->createurl('articles/admin')) ?></li>
+                        
                     </ul></div>
             </div>
         </div>
@@ -32,4 +34,3 @@
 
 ?>
 
-    

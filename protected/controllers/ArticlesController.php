@@ -66,11 +66,12 @@ class ArticlesController extends Controller
 
 		// Uncomment the following line if AJAX validation is needed
 		// $this->performAjaxValidation($model);
-
+                $model->author_name= ucfirst(Yii::app()->user->name);
 		if(isset($_POST['Articles']))
 		{
 			$model->attributes=$_POST['Articles'];
                         $model->article_active=0;
+                        $model->article_posted=0;
                         $model->id=Yii::app()->user->id ;
 			if($model->save())
 				$this->redirect(array('view','id'=>$model->article_id));
@@ -135,6 +136,7 @@ class ArticlesController extends Controller
 	 */
 	public function actionAdmin()
 	{
+               // $model->id= Yii::app()->getModule('user')->id;            
 		$model=new Articles('search');
 		$model->unsetAttributes();  // clear any default values
 		if(isset($_GET['Articles']))
@@ -172,4 +174,11 @@ class ArticlesController extends Controller
 			Yii::app()->end();
 		}
 	}
+        
+        public function actionPosted(){
+            $model=new Articles('searchPosted');
+            $this->render('posted',array(
+			'model'=>$model,
+		));
+        }
 }

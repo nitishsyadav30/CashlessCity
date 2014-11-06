@@ -27,7 +27,7 @@ table.detail-view th
 
 table.detail-view tr.odd
 {
-	background:#E5F1F4;
+	background: -webkit-linear-gradient(top, rgb(250, 250, 250) 0%,rgb(233, 233, 233) 100%);
 }
 
 table.detail-view tr.even

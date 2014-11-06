@@ -20,21 +20,21 @@ $this->breadcrumbs=array(
 <div class="form">
 <?php echo CHtml::beginForm(); ?>
 
-	<p class="note"><?php echo UserModule::t('Fields with <span class="required">*</span> are required.'); ?></p>
 	
 	<?php echo CHtml::errorSummary($model); ?>
 	
 	<div class="row">
-		<?php echo CHtml::activeLabelEx($model,'username'); ?>
-		<?php echo CHtml::activeTextField($model,'username') ?>
+		
+		<?php echo CHtml::activeTextField($model,'username',array('placeholder'=>'Username/Email')) ?>
+                
 	</div>
 	
-	<div class="row">
-		<?php echo CHtml::activeLabelEx($model,'password'); ?>
-		<?php echo CHtml::activePasswordField($model,'password') ?>
+        <div class="row" style="margin-top: 10px;">
+		
+		<?php echo CHtml::activePasswordField($model,'password',array('placeholder'=>'Password')) ?>
 	</div>
 	
-	<div class="row">
+	<div class="row" style="margin-top: 10px;">
 		<p class="hint">
 		<?php echo CHtml::link(UserModule::t("Register"),Yii::app()->getModule('user')->registrationUrl); ?> | <?php echo CHtml::link(UserModule::t("Lost Password?"),Yii::app()->getModule('user')->recoveryUrl); ?>
 		</p>

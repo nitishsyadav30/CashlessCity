@@ -18,11 +18,11 @@
         <meta name="author" content="Sylvain Lafitte, Web Designer, sylvainlafitte.com">
 
         <title><?php echo CHtml::encode($this->pageTitle); ?></title>
+        <link href='http://fonts.googleapis.com/css?family=Dosis|Raleway' rel='stylesheet' type='text/css'>
 
         <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
         <link rel="shortcut icon" type="image/png" href="favicon.png">
-
-        <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700' rel='stylesheet' type='text/css'>
+        
         <link rel="stylesheet" href="<?php echo Yii::app()->theme->baseUrl; ?>/css/style.css">
 
         <!--[if lt IE 9]>
@@ -76,10 +76,12 @@
                     </header>
 
                     <div class="grid col-one-half mq2-col-full">
-                       <?php echo $content; ?>
+                        <?php echo $content; ?>
                     </div>
-                     
-                        <div class="slider grid col-one-half mq2-col-full">
+
+                    <div class="slider grid col-one-half mq2-col-full">
+                        
+                       
                             <div class="flexslider">
                                 <div class="slides">
                                     <div class="slide">
@@ -107,15 +109,16 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                      
+                    </div>
 
                 </section>
 
                 <section class="services grid-wrap">
                     <header class="grid col-full">
                         <hr>
-                        <p class="fleft">Services</p>
-                        <a href="#" class="arrow fright">see more services</a>
+                        <p class="fleft"><h3>Latest Articles</h3></p>
+                        <a href="#" class="arrow fright">see more articles</a>
                     </header>
 
                     <article class="grid col-one-third mq3-col-full">
@@ -140,8 +143,8 @@
                 <section class="works grid-wrap">
                     <header class="grid col-full">
                         <hr>
-                        <p class="fleft">Works</p>
-                        <a href="#" class="arrow fright">see more works</a>
+                        <p class="fleft"><h3>News and Updates</h3></p>
+                        <a href="#" class="arrow fright">more..</a>
                     </header>
 
                     <figure class="grid col-one-quarter mq2-col-one-half">
